@@ -117,7 +117,7 @@ DESC
   #  the lib prefix of their name.
   #
 
-  # s.framework  = "SomeFramework"
+  s.framework  = "UIKit"
   s.frameworks = "Foundation", "UIKit"
 
   # s.library   = "iconv"
