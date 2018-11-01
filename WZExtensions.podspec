@@ -118,7 +118,7 @@ DESC
   #
 
   # s.framework  = "SomeFramework"
-  # s.frameworks = "Foundation", "UIKit"
+  s.frameworks = "Foundation", "UIKit"
 
   # s.library   = "iconv"
   # s.libraries = "iconv", "xml2"
