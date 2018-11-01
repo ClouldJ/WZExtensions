@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "WZExtensions"
   s.version      = "0.0.1"
-  s.summary      = "A short description of WZExtensions."
+  s.summary      = "WillyZhao的组件化第一步"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
 s.description  = <<-DESC
-不常用Extension
+不常用Extension，这是我第一次尝试组件化。希望能看到的大神勿怪。。。
 DESC
 
   s.homepage     = "https://github.com/ClouldJ/WZExtensions.git"
